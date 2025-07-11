@@ -1,0 +1,13 @@
+name: flutter_surface
+version: 0.1.0
+publish_to: 'none'
+environment:
+  sdk: '>=2.17.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  # This project requires Android native code for SurfaceView implementation.
