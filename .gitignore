@@ -1,0 +1,4 @@
+# Flutter build
+build/
+.android/
+.ios/
